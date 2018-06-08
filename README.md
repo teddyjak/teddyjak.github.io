@@ -7,5 +7,5 @@
 We use [Git](http://git-scm.org/) for versioning. 
 
 ## Authors
-* **Vladimir Beauge** - *Website Setup* - [Vladimir Beauge](https://github.com/VladimirBeauge)
+* **Vladimir Beauge** - *Developer* - [Vladimir Beauge](https://github.com/VladimirBeauge)
 * **Sebastian Bordes** - *Sebastian Bordes* - [Vladimir Beauge](https://github.com/teddyjak
